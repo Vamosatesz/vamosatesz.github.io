@@ -1,0 +1,16 @@
+body{
+    background-color: #8cf8dd; text-align: justify
+}
+h1{
+    text-align: center
+}
+p#bold{ 
+    font-weight: bold;
+}
+li#piros{color: red}
+li#narancs{color: orange}
+li#sarga{color: yellow}
+li#zold{color: green}
+li#kek{color: blue}
+li#indigo{color: indigo}
+li#ibolya{color: darkviolet}
